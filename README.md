@@ -147,6 +147,12 @@ If you find this repository useful, consider giving it a ⭐.
 
 **Suvam Naskar**
 
-GitHub: https://github.com/naskarsuvam21
+*GitHub:* https://github.com/naskarsuvam21
 
-LinkedIn: *(Add your LinkedIn profile here)*
+*LinkedIn:* www.linkedin.com/in/suvam-naskar
+
+*Website:*  https://snexplanation-portfolio.netlify.app/
+
+*Youtube:*  https://www.youtube.com/@snexplanation
+
+
