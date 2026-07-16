@@ -1,0 +1,151 @@
+productID,category,price
+1,Electronics,1712.65
+2,Home Appliances,2248.78
+3,Fitness,1646.98
+4,Clothing,2322.27
+5,Home Appliances,44.07
+6,Clothing,1469.66
+7,Accessories,2052.62
+8,Accessories,998.75
+9,Electronics,751.70
+10,Fitness,604.98
+11,Accessories,2124.36
+12,Footwear,2241.83
+13,Home Appliances,962.70
+14,Footwear,354.18
+15,Footwear,1811.79
+16,Fitness,1864.91
+17,Home Appliances,138.97
+18,Books,584.20
+19,Electronics,854.78
+20,Accessories,1536.59
+21,Fitness,994.77
+22,Accessories,819.31
+23,Footwear,686.95
+24,Books,1229.06
+25,Home Appliances,1384.83
+26,Books,1082.46
+27,Footwear,1466.76
+28,Books,218.81
+29,Fitness,741.97
+30,Clothing,1784.21
+31,Electronics,673.59
+32,Books,1780.63
+33,Footwear,389.92
+34,Books,795.11
+35,Electronics,233.34
+36,Home Appliances,1114.62
+37,Accessories,678.07
+38,Clothing,222.81
+39,Books,1124.86
+40,Fitness,1283.54
+41,Electronics,70.52
+42,Home Appliances,1387.78
+43,Fitness,1497.12
+44,Home Appliances,2159.98
+45,Electronics,733.16
+46,Books,1949.03
+47,Footwear,2253.33
+48,Clothing,1432.04
+49,Clothing,1714.86
+50,Clothing,351.41
+51,Home Appliances,674.67
+52,Clothing,162.85
+53,Books,693.52
+54,Home Appliances,1213.16
+55,Electronics,906.01
+56,Clothing,1803.64
+57,Books,1486.55
+58,Clothing,1147.36
+59,Clothing,765.12
+60,Books,833.88
+61,Fitness,952.83
+62,Accessories,827.21
+63,Home Appliances,1079.39
+64,Accessories,2149.47
+65,Fitness,344.63
+66,Home Appliances,1510.01
+67,Footwear,506.12
+68,Home Appliances,448.20
+69,Books,2421.97
+70,Home Appliances,1838.51
+71,Footwear,1230.06
+72,Fitness,1956.03
+73,Home Appliances,943.26
+74,Accessories,1965.74
+75,Home Appliances,289.15
+76,Fitness,503.50
+77,Fitness,453.92
+78,Accessories,1377.50
+79,Footwear,1156.75
+80,Footwear,528.07
+81,Accessories,731.87
+82,Footwear,177.55
+83,Accessories,1990.16
+84,Books,1684.08
+85,Clothing,1585.17
+86,Clothing,635.44
+87,Clothing,1789.51
+88,Accessories,945.59
+89,Books,2476.80
+90,Books,1457.70
+91,Fitness,1269.00
+92,Accessories,1730.81
+93,Fitness,96.73
+94,Home Appliances,1755.58
+95,Accessories,1344.58
+96,Footwear,2286.43
+97,Electronics,1923.54
+98,Footwear,1663.41
+99,Clothing,1619.26
+100,Electronics,1410.23
+101,Footwear,1695.29
+102,Books,2417.19
+103,Home Appliances,2414.46
+104,Books,269.33
+105,Electronics,650.55
+106,Fitness,1868.40
+107,Fitness,1453.39
+108,Fitness,556.47
+109,Home Appliances,980.88
+110,Accessories,1700.49
+111,Footwear,1253.66
+112,Home Appliances,2494.27
+113,Books,265.85
+114,Books,2301.77
+115,Electronics,294.59
+116,Footwear,358.48
+117,Home Appliances,860.95
+118,Accessories,521.13
+119,Books,874.01
+120,Electronics,1098.22
+121,Footwear,1133.86
+122,Electronics,754.16
+123,Accessories,1778.39
+124,Electronics,2123.70
+125,Footwear,277.86
+126,Accessories,415.06
+127,Footwear,613.56
+128,Clothing,1382.02
+129,Home Appliances,1401.82
+130,Books,583.48
+131,Books,1576.25
+132,Clothing,1602.99
+133,Books,991.98
+134,Footwear,1537.20
+135,Clothing,1126.69
+136,Books,975.15
+137,Footwear,540.92
+138,Home Appliances,1882.05
+139,Accessories,1991.04
+140,Fitness,258.87
+141,Accessories,1344.54
+142,Home Appliances,818.33
+143,Books,289.32
+144,Footwear,2157.28
+145,Fitness,2414.96
+146,Home Appliances,1494.44
+147,Fitness,984.40
+148,Electronics,873.07
+149,Accessories,1147.36
+150,Clothing,2035.28

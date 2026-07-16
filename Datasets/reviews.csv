@@ -1,0 +1,501 @@
+reviewID,customerID,productID,rating,reviewTitle,reviewText,reviewDate
+1,297,73,4,Nice Product,Average experience.,2026-01-15
+2,259,110,3,Great,Excellent quality.,2025-06-15
+3,463,17,4,Nice Product,Highly recommended.,2026-03-22
+4,191,85,5,Great,Highly recommended.,2025-07-17
+5,426,143,5,Nice Product,Average experience.,2025-03-17
+6,116,142,4,Nice Product,Packaging was good.,2025-08-02
+7,160,45,3,Great,Highly recommended.,2025-12-02
+8,225,32,5,Nice Product,Will buy again.,2025-02-21
+9,442,90,4,Great,Packaging was good.,2025-12-26
+10,495,32,3,Nice Product,Highly recommended.,2025-07-15
+11,259,23,4,Good Value,Average experience.,2026-02-13
+12,165,26,3,Satisfied,Fast delivery.,2025-03-05
+13,249,87,3,Satisfied,Will buy again.,2025-05-05
+14,32,4,4,Good Value,Packaging was good.,2026-03-18
+15,319,63,4,Satisfied,Highly recommended.,2025-10-11
+16,399,19,5,Satisfied,Will buy again.,2026-04-18
+17,91,92,4,Good Value,Worth the price.,2025-01-18
+18,108,104,5,Satisfied,Worth the price.,2025-03-24
+19,424,119,3,Good Value,Average experience.,2025-05-03
+20,83,82,5,Good Value,Worth the price.,2025-06-15
+21,416,50,3,Good Value,Excellent quality.,2026-03-10
+22,67,7,4,Great,Packaging was good.,2025-03-14
+23,368,115,3,Nice Product,Worth the price.,2026-03-12
+24,81,140,4,Satisfied,Highly recommended.,2026-04-25
+25,368,68,4,Good Value,Excellent quality.,2025-02-05
+26,157,40,5,Nice Product,Highly recommended.,2025-09-23
+27,415,120,5,Nice Product,Average experience.,2025-01-27
+28,45,5,3,Great,Excellent quality.,2026-02-22
+29,396,56,4,Satisfied,Fast delivery.,2025-01-15
+30,361,13,3,Good Value,Worth the price.,2025-01-23
+31,393,46,3,Satisfied,Packaging was good.,2025-10-14
+32,111,35,5,Great,Packaging was good.,2025-09-30
+33,280,119,5,Nice Product,Excellent quality.,2025-03-24
+34,245,18,3,Nice Product,Packaging was good.,2025-10-05
+35,463,92,4,Nice Product,Worth the price.,2025-10-21
+36,64,28,4,Good Value,Will buy again.,2025-12-27
+37,433,43,5,Great,Fast delivery.,2026-04-20
+38,259,114,3,Satisfied,Packaging was good.,2025-01-11
+39,144,78,3,Nice Product,Fast delivery.,2026-02-10
+40,291,39,3,Nice Product,Average experience.,2025-02-01
+41,19,63,3,Nice Product,Highly recommended.,2025-07-30
+42,276,135,3,Good Value,Excellent quality.,2026-05-10
+43,12,62,5,Nice Product,Packaging was good.,2026-02-28
+44,187,2,3,Nice Product,Worth the price.,2025-11-18
+45,232,129,3,Satisfied,Will buy again.,2026-01-05
+46,278,70,5,Great,Will buy again.,2026-02-19
+47,50,102,3,Great,Fast delivery.,2026-03-13
+48,307,126,3,Great,Highly recommended.,2026-04-25
+49,129,47,3,Great,Average experience.,2025-09-08
+50,37,47,4,Nice Product,Will buy again.,2025-08-26
+51,81,125,5,Good Value,Packaging was good.,2025-10-01
+52,353,77,4,Satisfied,Highly recommended.,2026-03-31
+53,268,8,3,Satisfied,Excellent quality.,2025-06-04
+54,200,20,3,Good Value,Will buy again.,2026-01-15
+55,359,26,4,Satisfied,Worth the price.,2026-02-20
+56,352,93,3,Nice Product,Excellent quality.,2026-01-26
+57,267,140,3,Nice Product,Average experience.,2025-06-15
+58,45,135,5,Great,Fast delivery.,2025-08-11
+59,242,66,4,Nice Product,Fast delivery.,2025-11-03
+60,197,25,4,Good Value,Will buy again.,2025-07-14
+61,360,3,3,Satisfied,Will buy again.,2025-11-17
+62,253,111,3,Great,Highly recommended.,2026-04-15
+63,352,130,5,Good Value,Excellent quality.,2025-07-18
+64,391,7,5,Great,Fast delivery.,2026-03-11
+65,432,136,3,Nice Product,Packaging was good.,2026-01-19
+66,209,20,5,Satisfied,Fast delivery.,2026-01-01
+67,252,110,5,Nice Product,Highly recommended.,2025-06-12
+68,16,146,5,Great,Worth the price.,2025-11-18
+69,208,140,3,Good Value,Worth the price.,2026-01-28
+70,381,36,4,Great,Worth the price.,2025-09-11
+71,362,127,3,Good Value,Excellent quality.,2025-11-02
+72,339,140,3,Good Value,Fast delivery.,2026-03-31
+73,81,106,4,Good Value,Packaging was good.,2026-01-04
+74,130,48,5,Satisfied,Will buy again.,2025-06-15
+75,318,139,3,Satisfied,Packaging was good.,2025-11-16
+76,104,12,5,Satisfied,Average experience.,2025-03-03
+77,323,150,5,Nice Product,Highly recommended.,2026-01-20
+78,285,30,5,Satisfied,Worth the price.,2025-11-25
+79,216,43,3,Good Value,Highly recommended.,2025-08-02
+80,7,83,5,Satisfied,Worth the price.,2026-02-13
+81,423,64,5,Great,Highly recommended.,2025-07-08
+82,373,108,5,Satisfied,Packaging was good.,2026-02-10
+83,110,63,4,Good Value,Packaging was good.,2025-10-28
+84,329,133,5,Nice Product,Worth the price.,2025-10-27
+85,450,42,5,Great,Average experience.,2026-01-21
+86,233,36,4,Satisfied,Excellent quality.,2025-05-08
+87,442,25,5,Great,Excellent quality.,2025-12-23
+88,432,144,3,Nice Product,Will buy again.,2026-04-10
+89,372,7,4,Good Value,Packaging was good.,2025-08-26
+90,375,98,4,Great,Will buy again.,2025-05-22
+91,160,97,4,Satisfied,Worth the price.,2025-02-14
+92,79,18,5,Good Value,Worth the price.,2025-09-27
+93,473,26,4,Good Value,Worth the price.,2026-02-12
+94,184,90,3,Great,Excellent quality.,2025-04-24
+95,101,78,3,Great,Excellent quality.,2026-01-10
+96,171,97,3,Good Value,Average experience.,2026-04-27
+97,362,20,4,Nice Product,Packaging was good.,2025-12-17
+98,150,86,5,Great,Average experience.,2025-12-16
+99,66,43,3,Great,Worth the price.,2025-02-14
+100,385,111,4,Satisfied,Excellent quality.,2025-04-15
+101,491,135,5,Great,Average experience.,2025-07-12
+102,35,56,3,Good Value,Worth the price.,2025-04-11
+103,404,82,3,Good Value,Packaging was good.,2026-02-01
+104,368,82,3,Nice Product,Worth the price.,2025-07-20
+105,349,29,4,Satisfied,Fast delivery.,2026-01-22
+106,107,81,4,Satisfied,Fast delivery.,2025-07-13
+107,205,2,4,Good Value,Highly recommended.,2025-08-28
+108,325,124,4,Great,Fast delivery.,2026-03-01
+109,347,149,5,Nice Product,Fast delivery.,2025-07-20
+110,352,74,3,Nice Product,Worth the price.,2025-12-29
+111,330,78,5,Satisfied,Fast delivery.,2025-02-17
+112,137,42,5,Good Value,Highly recommended.,2025-04-19
+113,434,2,3,Nice Product,Excellent quality.,2025-07-20
+114,326,68,5,Good Value,Excellent quality.,2025-05-30
+115,463,100,3,Great,Worth the price.,2026-04-11
+116,243,56,4,Good Value,Packaging was good.,2025-12-23
+117,320,132,4,Good Value,Average experience.,2025-09-07
+118,203,104,4,Satisfied,Worth the price.,2025-03-24
+119,307,115,3,Nice Product,Excellent quality.,2025-07-28
+120,354,49,4,Satisfied,Excellent quality.,2025-01-01
+121,20,121,3,Great,Highly recommended.,2025-12-24
+122,162,11,5,Good Value,Worth the price.,2025-04-02
+123,412,105,5,Great,Average experience.,2025-04-08
+124,131,12,3,Great,Highly recommended.,2025-04-02
+125,417,16,5,Satisfied,Highly recommended.,2026-01-23
+126,168,36,3,Nice Product,Average experience.,2025-03-31
+127,1,1,5,Good Value,Will buy again.,2026-02-01
+128,475,7,3,Great,Will buy again.,2025-09-17
+129,247,119,3,Satisfied,Packaging was good.,2026-01-14
+130,266,5,4,Good Value,Average experience.,2026-04-23
+131,300,52,3,Good Value,Excellent quality.,2025-10-14
+132,295,75,5,Good Value,Worth the price.,2026-01-08
+133,266,29,3,Good Value,Will buy again.,2025-10-17
+134,481,56,3,Satisfied,Will buy again.,2025-04-17
+135,163,103,5,Nice Product,Highly recommended.,2025-09-13
+136,54,96,3,Nice Product,Packaging was good.,2026-05-08
+137,376,16,3,Good Value,Fast delivery.,2025-09-01
+138,6,64,5,Satisfied,Excellent quality.,2025-12-21
+139,50,60,3,Good Value,Average experience.,2025-07-22
+140,53,25,4,Good Value,Highly recommended.,2025-07-09
+141,79,61,5,Satisfied,Fast delivery.,2026-03-27
+142,211,113,5,Great,Excellent quality.,2025-01-29
+143,321,112,4,Nice Product,Excellent quality.,2025-06-19
+144,226,82,4,Great,Worth the price.,2026-01-05
+145,186,62,3,Satisfied,Average experience.,2025-05-24
+146,164,102,5,Good Value,Will buy again.,2025-12-24
+147,392,83,4,Nice Product,Worth the price.,2025-09-29
+148,108,107,3,Great,Will buy again.,2025-11-12
+149,474,44,3,Great,Excellent quality.,2025-02-11
+150,271,146,3,Satisfied,Packaging was good.,2025-08-21
+151,406,143,5,Satisfied,Worth the price.,2025-09-27
+152,214,20,4,Great,Excellent quality.,2026-01-13
+153,395,94,4,Satisfied,Average experience.,2025-09-04
+154,72,61,4,Good Value,Worth the price.,2025-07-06
+155,406,136,5,Great,Packaging was good.,2026-05-07
+156,106,149,5,Nice Product,Worth the price.,2025-08-14
+157,28,42,3,Nice Product,Average experience.,2025-05-12
+158,22,103,5,Good Value,Fast delivery.,2025-04-11
+159,449,107,3,Satisfied,Will buy again.,2025-09-17
+160,42,4,3,Nice Product,Average experience.,2025-11-17
+161,111,128,4,Nice Product,Excellent quality.,2026-01-03
+162,36,26,4,Satisfied,Worth the price.,2025-09-16
+163,219,80,4,Good Value,Will buy again.,2025-12-17
+164,325,63,4,Nice Product,Excellent quality.,2025-09-24
+165,384,50,4,Nice Product,Packaging was good.,2025-01-21
+166,210,71,4,Nice Product,Worth the price.,2026-01-27
+167,357,111,4,Good Value,Will buy again.,2025-03-07
+168,394,96,5,Nice Product,Excellent quality.,2025-10-24
+169,389,32,4,Great,Worth the price.,2025-07-08
+170,314,92,3,Good Value,Fast delivery.,2026-01-17
+171,90,109,4,Good Value,Excellent quality.,2025-10-14
+172,420,47,5,Good Value,Will buy again.,2025-03-27
+173,360,121,5,Nice Product,Highly recommended.,2025-12-19
+174,99,32,4,Great,Fast delivery.,2025-10-04
+175,460,113,4,Nice Product,Packaging was good.,2025-04-24
+176,285,51,4,Great,Highly recommended.,2025-02-10
+177,400,2,5,Satisfied,Worth the price.,2025-01-20
+178,310,128,5,Good Value,Worth the price.,2025-01-17
+179,426,29,3,Good Value,Highly recommended.,2025-04-08
+180,360,25,3,Good Value,Fast delivery.,2025-05-24
+181,500,85,5,Great,Average experience.,2025-08-05
+182,43,119,3,Satisfied,Average experience.,2025-06-05
+183,301,54,5,Good Value,Will buy again.,2025-10-24
+184,336,147,4,Good Value,Highly recommended.,2025-10-29
+185,51,142,5,Good Value,Worth the price.,2025-05-24
+186,270,43,4,Good Value,Fast delivery.,2025-04-01
+187,119,43,4,Satisfied,Average experience.,2025-07-23
+188,278,85,3,Satisfied,Will buy again.,2026-02-21
+189,148,20,5,Great,Highly recommended.,2025-03-18
+190,60,79,3,Satisfied,Fast delivery.,2025-05-03
+191,500,15,3,Great,Worth the price.,2025-07-22
+192,203,75,3,Satisfied,Fast delivery.,2025-08-27
+193,327,150,3,Good Value,Average experience.,2025-04-30
+194,214,118,5,Good Value,Worth the price.,2026-01-27
+195,338,132,3,Great,Worth the price.,2025-11-22
+196,273,40,5,Great,Average experience.,2025-11-21
+197,280,141,3,Great,Packaging was good.,2025-05-10
+198,247,140,5,Satisfied,Worth the price.,2026-03-24
+199,333,48,5,Satisfied,Highly recommended.,2025-06-16
+200,448,145,4,Satisfied,Worth the price.,2025-03-30
+201,24,132,4,Satisfied,Fast delivery.,2025-04-17
+202,368,68,5,Satisfied,Excellent quality.,2025-08-23
+203,45,10,4,Nice Product,Excellent quality.,2025-01-23
+204,323,80,5,Good Value,Will buy again.,2025-03-03
+205,178,62,3,Good Value,Worth the price.,2026-04-24
+206,174,72,5,Good Value,Packaging was good.,2025-03-25
+207,19,20,3,Satisfied,Fast delivery.,2026-04-15
+208,235,54,5,Great,Fast delivery.,2025-11-27
+209,194,90,5,Good Value,Fast delivery.,2025-07-23
+210,308,3,5,Good Value,Highly recommended.,2026-03-06
+211,416,15,4,Nice Product,Packaging was good.,2025-02-09
+212,362,103,3,Good Value,Highly recommended.,2026-02-13
+213,394,23,4,Great,Fast delivery.,2025-04-11
+214,422,118,3,Nice Product,Worth the price.,2025-01-20
+215,315,122,4,Great,Average experience.,2025-10-07
+216,382,54,3,Satisfied,Will buy again.,2025-12-22
+217,360,85,3,Good Value,Packaging was good.,2025-11-03
+218,198,75,3,Nice Product,Excellent quality.,2025-01-19
+219,218,5,3,Satisfied,Highly recommended.,2026-05-08
+220,10,104,5,Nice Product,Worth the price.,2025-05-08
+221,40,55,3,Nice Product,Average experience.,2026-02-03
+222,477,148,5,Good Value,Will buy again.,2026-04-21
+223,189,17,5,Satisfied,Worth the price.,2026-04-01
+224,66,71,4,Good Value,Fast delivery.,2025-02-18
+225,212,91,5,Satisfied,Excellent quality.,2025-05-16
+226,415,57,5,Good Value,Highly recommended.,2025-08-21
+227,446,131,5,Good Value,Worth the price.,2025-01-06
+228,494,92,5,Good Value,Packaging was good.,2026-04-29
+229,101,90,4,Good Value,Fast delivery.,2025-12-25
+230,194,49,5,Nice Product,Highly recommended.,2025-02-15
+231,418,51,3,Good Value,Fast delivery.,2025-10-23
+232,3,13,4,Satisfied,Average experience.,2025-08-13
+233,37,76,5,Satisfied,Packaging was good.,2025-07-19
+234,449,99,4,Satisfied,Will buy again.,2025-06-14
+235,113,64,4,Good Value,Average experience.,2025-05-12
+236,275,13,4,Nice Product,Average experience.,2025-11-13
+237,433,89,5,Great,Worth the price.,2026-04-19
+238,256,5,3,Nice Product,Highly recommended.,2025-09-01
+239,474,112,5,Great,Worth the price.,2025-12-21
+240,351,109,5,Good Value,Fast delivery.,2026-03-11
+241,197,109,3,Nice Product,Worth the price.,2025-08-19
+242,352,55,3,Great,Highly recommended.,2025-09-20
+243,403,93,3,Satisfied,Fast delivery.,2025-08-06
+244,356,150,4,Good Value,Worth the price.,2026-05-09
+245,341,41,3,Good Value,Average experience.,2025-10-03
+246,333,19,3,Satisfied,Average experience.,2025-05-07
+247,252,10,4,Satisfied,Excellent quality.,2025-08-12
+248,44,82,3,Nice Product,Worth the price.,2025-08-08
+249,182,147,3,Good Value,Worth the price.,2026-05-12
+250,475,29,5,Great,Excellent quality.,2025-08-20
+251,274,79,3,Good Value,Worth the price.,2025-05-10
+252,237,58,5,Great,Fast delivery.,2026-04-09
+253,38,88,4,Nice Product,Fast delivery.,2026-02-03
+254,328,58,4,Good Value,Fast delivery.,2025-10-14
+255,487,23,5,Nice Product,Highly recommended.,2025-11-03
+256,204,26,3,Good Value,Will buy again.,2026-04-14
+257,393,91,4,Nice Product,Fast delivery.,2026-02-25
+258,471,53,5,Satisfied,Will buy again.,2025-09-07
+259,73,53,3,Great,Average experience.,2026-02-13
+260,368,48,4,Good Value,Packaging was good.,2026-03-10
+261,160,23,3,Satisfied,Will buy again.,2026-03-26
+262,130,62,3,Good Value,Average experience.,2025-12-04
+263,165,149,5,Good Value,Worth the price.,2025-08-02
+264,236,130,3,Good Value,Worth the price.,2025-09-26
+265,445,85,3,Satisfied,Fast delivery.,2025-10-11
+266,368,73,3,Great,Highly recommended.,2026-05-14
+267,18,105,4,Great,Average experience.,2026-03-02
+268,297,117,5,Good Value,Average experience.,2025-08-25
+269,207,85,4,Nice Product,Excellent quality.,2025-07-24
+270,482,39,4,Great,Highly recommended.,2025-01-11
+271,28,16,5,Nice Product,Packaging was good.,2025-07-04
+272,111,36,4,Satisfied,Will buy again.,2026-03-22
+273,175,2,3,Satisfied,Packaging was good.,2025-05-26
+274,487,77,4,Nice Product,Fast delivery.,2025-07-27
+275,305,120,4,Great,Fast delivery.,2026-02-03
+276,233,136,4,Satisfied,Average experience.,2025-08-18
+277,326,112,3,Satisfied,Highly recommended.,2025-07-07
+278,415,118,5,Good Value,Average experience.,2025-10-17
+279,12,56,5,Great,Packaging was good.,2025-09-24
+280,21,115,3,Good Value,Highly recommended.,2026-01-08
+281,47,133,4,Satisfied,Highly recommended.,2025-02-19
+282,171,34,3,Good Value,Worth the price.,2025-02-16
+283,126,131,4,Great,Excellent quality.,2025-05-17
+284,391,72,4,Great,Fast delivery.,2025-05-14
+285,211,72,3,Great,Packaging was good.,2025-12-10
+286,189,138,5,Good Value,Worth the price.,2025-09-07
+287,372,98,3,Good Value,Excellent quality.,2025-08-08
+288,430,114,4,Nice Product,Highly recommended.,2025-10-15
+289,189,52,4,Nice Product,Will buy again.,2026-04-21
+290,429,95,3,Nice Product,Packaging was good.,2026-01-31
+291,280,33,3,Satisfied,Packaging was good.,2025-05-09
+292,367,1,3,Satisfied,Worth the price.,2025-12-07
+293,287,130,3,Nice Product,Will buy again.,2025-03-09
+294,67,87,4,Nice Product,Excellent quality.,2025-03-13
+295,200,38,4,Great,Highly recommended.,2025-01-09
+296,310,35,3,Good Value,Packaging was good.,2026-04-03
+297,295,86,5,Great,Average experience.,2025-03-19
+298,44,131,5,Great,Worth the price.,2025-08-15
+299,396,93,5,Nice Product,Excellent quality.,2025-09-26
+300,97,5,5,Great,Will buy again.,2026-05-13
+301,476,143,3,Good Value,Highly recommended.,2025-12-17
+302,11,107,5,Satisfied,Will buy again.,2025-12-14
+303,307,67,5,Satisfied,Will buy again.,2025-10-04
+304,12,145,3,Satisfied,Worth the price.,2025-01-24
+305,471,31,5,Good Value,Excellent quality.,2026-01-09
+306,364,80,3,Satisfied,Worth the price.,2025-12-06
+307,26,60,3,Nice Product,Average experience.,2025-01-01
+308,499,37,3,Nice Product,Fast delivery.,2025-04-30
+309,486,38,4,Good Value,Fast delivery.,2025-01-17
+310,399,92,5,Good Value,Average experience.,2025-10-15
+311,340,119,4,Satisfied,Will buy again.,2026-03-09
+312,464,96,4,Nice Product,Fast delivery.,2026-05-07
+313,97,86,3,Great,Will buy again.,2025-01-04
+314,239,12,5,Satisfied,Packaging was good.,2025-06-21
+315,281,63,4,Nice Product,Worth the price.,2025-12-15
+316,89,11,5,Good Value,Will buy again.,2026-02-02
+317,380,77,5,Good Value,Packaging was good.,2025-09-05
+318,257,97,3,Satisfied,Packaging was good.,2025-09-28
+319,158,71,5,Good Value,Average experience.,2026-03-14
+320,134,63,5,Great,Highly recommended.,2025-07-14
+321,85,96,5,Satisfied,Average experience.,2025-09-11
+322,307,21,4,Nice Product,Highly recommended.,2026-03-24
+323,187,82,3,Satisfied,Worth the price.,2026-04-20
+324,467,38,4,Good Value,Average experience.,2025-12-07
+325,263,140,3,Satisfied,Highly recommended.,2025-09-22
+326,390,50,5,Satisfied,Worth the price.,2026-03-26
+327,17,146,5,Nice Product,Worth the price.,2025-10-04
+328,236,106,4,Great,Packaging was good.,2026-05-12
+329,92,33,3,Nice Product,Average experience.,2026-02-24
+330,89,131,3,Great,Will buy again.,2025-09-07
+331,51,5,5,Nice Product,Worth the price.,2025-10-26
+332,43,140,3,Satisfied,Highly recommended.,2026-03-26
+333,209,72,3,Good Value,Will buy again.,2025-01-07
+334,335,113,5,Nice Product,Will buy again.,2026-04-05
+335,308,127,4,Good Value,Excellent quality.,2025-08-26
+336,175,17,4,Nice Product,Packaging was good.,2025-06-22
+337,170,18,4,Satisfied,Packaging was good.,2025-07-21
+338,343,6,3,Satisfied,Worth the price.,2025-11-30
+339,196,32,3,Nice Product,Worth the price.,2025-11-13
+340,150,89,5,Satisfied,Fast delivery.,2026-01-01
+341,59,98,4,Satisfied,Excellent quality.,2026-04-11
+342,109,98,3,Great,Average experience.,2025-02-22
+343,182,99,3,Satisfied,Average experience.,2025-07-07
+344,85,56,3,Nice Product,Worth the price.,2026-01-20
+345,93,119,4,Nice Product,Worth the price.,2025-09-29
+346,475,5,3,Great,Worth the price.,2025-07-20
+347,120,82,4,Great,Fast delivery.,2025-01-26
+348,72,11,4,Good Value,Highly recommended.,2025-08-30
+349,277,88,4,Satisfied,Packaging was good.,2025-04-18
+350,149,6,4,Nice Product,Excellent quality.,2026-01-04
+351,308,60,3,Great,Average experience.,2026-01-25
+352,280,76,3,Nice Product,Packaging was good.,2025-12-05
+353,36,50,3,Satisfied,Average experience.,2025-10-09
+354,165,34,5,Satisfied,Highly recommended.,2025-01-03
+355,101,44,3,Satisfied,Will buy again.,2025-01-27
+356,115,137,5,Satisfied,Worth the price.,2025-12-03
+357,380,147,4,Nice Product,Worth the price.,2026-01-03
+358,369,145,3,Nice Product,Average experience.,2026-03-08
+359,347,150,3,Satisfied,Fast delivery.,2025-12-07
+360,258,40,5,Great,Average experience.,2025-07-16
+361,66,139,3,Satisfied,Fast delivery.,2025-09-28
+362,241,17,4,Great,Fast delivery.,2025-04-29
+363,229,37,5,Nice Product,Will buy again.,2025-03-06
+364,58,8,3,Satisfied,Average experience.,2025-07-20
+365,128,69,5,Nice Product,Packaging was good.,2025-10-17
+366,19,124,4,Great,Will buy again.,2025-01-22
+367,222,34,4,Satisfied,Will buy again.,2026-01-24
+368,10,1,4,Great,Worth the price.,2025-11-14
+369,368,53,5,Nice Product,Average experience.,2025-03-19
+370,330,41,5,Satisfied,Packaging was good.,2025-05-17
+371,200,5,4,Great,Average experience.,2025-07-10
+372,223,76,3,Good Value,Excellent quality.,2026-01-13
+373,101,122,3,Good Value,Highly recommended.,2026-05-13
+374,337,43,5,Great,Highly recommended.,2025-04-24
+375,193,148,3,Satisfied,Highly recommended.,2025-07-17
+376,277,40,5,Good Value,Fast delivery.,2026-03-24
+377,489,101,3,Great,Packaging was good.,2025-11-06
+378,229,63,4,Satisfied,Worth the price.,2026-01-19
+379,479,114,3,Nice Product,Highly recommended.,2025-08-18
+380,99,110,3,Nice Product,Excellent quality.,2025-02-05
+381,25,40,3,Nice Product,Worth the price.,2025-02-08
+382,201,135,3,Good Value,Fast delivery.,2025-11-06
+383,401,149,4,Good Value,Highly recommended.,2026-04-14
+384,216,12,3,Good Value,Packaging was good.,2025-04-08
+385,255,76,3,Good Value,Will buy again.,2025-07-13
+386,405,145,3,Great,Excellent quality.,2026-02-02
+387,94,126,4,Nice Product,Highly recommended.,2025-01-30
+388,228,32,5,Nice Product,Packaging was good.,2025-01-22
+389,194,43,4,Satisfied,Highly recommended.,2025-04-14
+390,188,100,5,Great,Highly recommended.,2026-03-17
+391,314,103,4,Satisfied,Excellent quality.,2025-08-29
+392,136,15,5,Satisfied,Fast delivery.,2025-02-09
+393,281,51,3,Great,Packaging was good.,2025-04-20
+394,387,18,5,Great,Average experience.,2025-11-25
+395,500,7,5,Satisfied,Fast delivery.,2025-12-08
+396,26,12,5,Satisfied,Worth the price.,2025-03-22
+397,281,8,4,Satisfied,Fast delivery.,2025-04-11
+398,332,38,4,Great,Average experience.,2025-04-28
+399,183,112,3,Good Value,Highly recommended.,2025-10-09
+400,113,123,5,Nice Product,Worth the price.,2025-01-05
+401,241,72,3,Good Value,Highly recommended.,2025-12-20
+402,459,28,3,Nice Product,Average experience.,2025-05-30
+403,305,146,5,Great,Worth the price.,2025-07-21
+404,84,72,5,Good Value,Excellent quality.,2026-01-04
+405,412,73,3,Nice Product,Highly recommended.,2026-02-01
+406,323,20,4,Great,Worth the price.,2026-03-15
+407,26,40,3,Nice Product,Worth the price.,2025-12-16
+408,443,39,3,Satisfied,Packaging was good.,2026-04-10
+409,121,32,4,Good Value,Excellent quality.,2025-10-22
+410,91,31,3,Satisfied,Excellent quality.,2025-01-25
+411,73,140,3,Satisfied,Fast delivery.,2025-06-03
+412,221,4,3,Satisfied,Excellent quality.,2025-01-17
+413,403,12,4,Nice Product,Will buy again.,2025-01-21
+414,311,116,4,Nice Product,Average experience.,2026-05-02
+415,52,131,5,Satisfied,Worth the price.,2026-03-09
+416,391,142,4,Nice Product,Excellent quality.,2025-06-09
+417,398,148,5,Nice Product,Fast delivery.,2025-06-01
+418,371,101,3,Satisfied,Will buy again.,2025-04-14
+419,34,82,3,Nice Product,Highly recommended.,2025-03-31
+420,51,88,5,Great,Average experience.,2025-01-03
+421,320,64,3,Satisfied,Average experience.,2025-06-12
+422,179,54,5,Good Value,Worth the price.,2025-09-27
+423,213,114,5,Satisfied,Fast delivery.,2026-01-24
+424,192,78,4,Satisfied,Will buy again.,2025-07-05
+425,60,91,5,Satisfied,Highly recommended.,2025-07-01
+426,76,71,3,Good Value,Average experience.,2025-10-23
+427,115,120,3,Good Value,Highly recommended.,2025-05-06
+428,335,126,4,Satisfied,Packaging was good.,2025-05-19
+429,3,4,5,Nice Product,Will buy again.,2025-06-08
+430,146,91,3,Satisfied,Highly recommended.,2025-07-29
+431,60,22,5,Great,Will buy again.,2025-10-20
+432,418,47,3,Good Value,Will buy again.,2025-02-23
+433,29,57,4,Nice Product,Fast delivery.,2026-03-29
+434,281,65,4,Nice Product,Will buy again.,2026-02-04
+435,415,4,5,Good Value,Will buy again.,2025-12-01
+436,236,147,4,Great,Packaging was good.,2026-01-24
+437,459,28,4,Nice Product,Packaging was good.,2025-10-25
+438,217,74,5,Nice Product,Fast delivery.,2025-03-01
+439,74,49,4,Satisfied,Fast delivery.,2025-08-24
+440,266,82,3,Satisfied,Average experience.,2025-03-13
+441,40,54,3,Nice Product,Will buy again.,2025-02-24
+442,241,108,3,Good Value,Highly recommended.,2025-06-10
+443,432,9,4,Great,Excellent quality.,2025-05-05
+444,3,115,3,Good Value,Packaging was good.,2025-01-18
+445,165,25,3,Good Value,Will buy again.,2025-11-06
+446,489,143,3,Nice Product,Will buy again.,2025-05-16
+447,241,83,3,Good Value,Excellent quality.,2025-06-12
+448,412,109,3,Satisfied,Worth the price.,2025-05-25
+449,340,25,5,Nice Product,Will buy again.,2026-02-03
+450,476,86,3,Great,Packaging was good.,2025-05-15
+451,374,114,4,Nice Product,Excellent quality.,2025-08-04
+452,496,139,4,Great,Excellent quality.,2025-11-13
+453,199,61,5,Good Value,Fast delivery.,2025-04-08
+454,349,93,4,Nice Product,Fast delivery.,2025-08-11
+455,496,22,5,Good Value,Fast delivery.,2025-08-12
+456,249,17,3,Great,Excellent quality.,2025-05-30
+457,348,136,4,Satisfied,Will buy again.,2026-05-15
+458,398,47,3,Nice Product,Average experience.,2025-07-10
+459,9,59,4,Satisfied,Average experience.,2026-04-16
+460,47,118,3,Satisfied,Will buy again.,2026-02-21
+461,169,29,3,Satisfied,Highly recommended.,2025-07-08
+462,6,124,3,Nice Product,Packaging was good.,2026-04-23
+463,292,67,5,Good Value,Fast delivery.,2025-04-14
+464,154,84,3,Nice Product,Fast delivery.,2025-01-24
+465,25,94,4,Nice Product,Packaging was good.,2025-09-05
+466,177,51,5,Satisfied,Excellent quality.,2025-01-10
+467,40,80,4,Nice Product,Packaging was good.,2026-04-11
+468,351,133,5,Good Value,Excellent quality.,2025-05-16
+469,116,22,4,Satisfied,Worth the price.,2025-07-17
+470,448,132,5,Good Value,Worth the price.,2025-10-15
+471,48,42,4,Good Value,Will buy again.,2025-05-25
+472,227,56,4,Great,Packaging was good.,2026-02-15
+473,2,86,5,Satisfied,Will buy again.,2025-05-13
+474,400,98,4,Satisfied,Packaging was good.,2025-05-26
+475,389,92,5,Nice Product,Packaging was good.,2025-12-25
+476,342,66,5,Nice Product,Highly recommended.,2026-03-29
+477,397,55,3,Good Value,Fast delivery.,2025-04-21
+478,409,1,5,Great,Packaging was good.,2025-01-20
+479,178,58,5,Great,Highly recommended.,2025-07-18
+480,118,135,5,Good Value,Will buy again.,2025-01-18
+481,359,82,4,Good Value,Excellent quality.,2025-07-31
+482,143,66,4,Nice Product,Average experience.,2026-01-24
+483,200,9,5,Good Value,Excellent quality.,2025-10-17
+484,398,61,4,Great,Highly recommended.,2025-09-27
+485,349,56,4,Nice Product,Packaging was good.,2025-07-14
+486,386,98,4,Great,Average experience.,2026-05-08
+487,267,49,3,Nice Product,Packaging was good.,2026-04-28
+488,388,109,5,Great,Packaging was good.,2025-01-09
+489,84,82,3,Satisfied,Will buy again.,2026-05-10
+490,392,107,4,Satisfied,Fast delivery.,2026-04-26
+491,338,22,4,Nice Product,Worth the price.,2025-10-14
+492,302,139,5,Good Value,Excellent quality.,2026-01-02
+493,170,18,3,Great,Excellent quality.,2026-03-15
+494,61,53,5,Good Value,Average experience.,2025-03-10
+495,72,120,4,Good Value,Will buy again.,2026-02-13
+496,400,117,3,Good Value,Fast delivery.,2025-01-06
+497,240,123,5,Nice Product,Will buy again.,2025-10-08
+498,460,21,3,Good Value,Highly recommended.,2025-07-26
+499,168,125,4,Great,Packaging was good.,2025-03-08
+500,32,90,3,Satisfied,Highly recommended.,2025-03-04
