@@ -1,5 +1,7 @@
 -- ============================================================
---                      5. Orders
+-- ecommerce database -- seed data matching the user's real schema
+-- Dialect: MySQL 8.0+
+-- Active: 1784175318492@@127.0.0.1@3306@ecommerce
 -- ============================================================
 
 USE ecommerce;
