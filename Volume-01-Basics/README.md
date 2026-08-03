@@ -135,8 +135,7 @@ If this repository helps you,
 
 ---
 
-Made with ❤️ by Suvam Naskar (@snexplanation)
+Made with ❤️ by **Suvam Naskar** (@snexplanation)
 
-**Suvam Naskar**
 
-SN Explanation
+
