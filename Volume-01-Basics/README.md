@@ -82,7 +82,7 @@ Watch the complete explanation in Bangla.
 
 ▶ Episode Playlist
 
-[https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID](https://www.youtube.com/watch?v=g_tcuPpu-PE&list=PLVlsF7jrOzdQ)
+[MySQL Project Series (বাংলায়) | Real-Life E-Commerce Database Project](https://www.youtube.com/watch?v=g_tcuPpu-PE&list=PLVlsF7jrOzdQ)
 
 ---
 
