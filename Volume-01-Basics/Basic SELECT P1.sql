@@ -7,7 +7,7 @@ SELECT * FROM customers;
 
 -- Q2 Retrieve	firstName, lastName and	dob	for	every customer.
 SELECT
-	  firstName,
+	firstName,
     lastName,
     dob
 FROM customers;
@@ -19,19 +19,19 @@ FROM products;
 
 -- Q4 Retrieve category	and	price, renaming	price as Price.
 SELECT 
-	  category,
+	category,
     price AS Price
 FROM products;
 
 -- Q5 Build	a single full_name column by joining firstName and lastName	with a space, for every	customer
 SELECT 
-	  customerID,
+	customerID,
     CONCAT(firstName, ' ', lastName) AS CustomersName
 FROM customers;
 
 -- Q6 Show category, price,	and	the	price after	a flat 10% discount	as discounted_price.
 SELECT 
-	  category,
+	category,
     price,
     ROUND(price - (price * 0.10), 2) AS discountedPrice
 FROM products;
@@ -46,13 +46,13 @@ LIMIT 5;
 
 -- Q8. Retrieve	employeeID,	firstName, and lastName	for	every employee.
 SELECT
-	  employeeID,
+	employeeID,
     CONCAT(firstName, ' ', lastName) AS employeesName
 FROM employees;
 
 -- Q9 List every supplier's	name along with	the	city they operate from.
 SELECT 
-  	supplierID,
+	supplierID,
     supplierName,
     city
 FROM suppliers;
